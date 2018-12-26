@@ -1,0 +1,9 @@
+{
+  "name": "mmm-andersson",
+  "version": "0.0.0",
+  "description": "MMM-Andersson",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
